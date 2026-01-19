@@ -88,7 +88,7 @@ MIT License
 
 ## Links
 
-- Blog post: [www.tanchunsiong.com](https://www.tanchunsiong.com)
+- Blog post: [QuadTree Explorer: Understanding Bing Maps Tiling System](https://www.tanchunsiong.com/2011/05/quadtree-explorer-understanding-bing-maps-tiling-system/)
 - GitHub: [github.com/tanchunsiong](https://github.com/tanchunsiong)
 - LinkedIn: [linkedin.com/in/tanchunsiong](https://linkedin.com/in/tanchunsiong)
 - X: [x.com/tanchunsiong](https://x.com/tanchunsiong)
